@@ -1,0 +1,6 @@
+package com.example.shredshare.data.dto.login
+
+data class LoginRequest(
+    val email: String,
+    val password: String
+)

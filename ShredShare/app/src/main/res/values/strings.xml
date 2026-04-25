@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ShredShare</string>
+    <string name="google_maps_key">AIzaSyAdcpSZqiDfXzaJjHXezrEyTYAJHGFMxgE</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Вход</string>
+    <string name="login_subtitle">Влезте, за да продължите</string>
+    <string name="email_label">Имейл</string>
+    <string name="password_label">Парола</string>
+    <string name="forgot_password">Забравена парола?</string>
+    <string name="login_button">ВХОД</string>
+    <string name="or_divider">или</string>
+    <string name="signup_button">Регистрация</string>
+
+    <!-- Choose Role Screen -->
+    <string name="choose_role_title">Изберете вашата роля</string>
+    <string name="customer_role">Потребител</string>
+    <string name="owner_role">Собственик</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Регистрация</string>
+    <string name="first_name_label">Име</string>
+    <string name="last_name_label">Фамилия</string>
+    <string name="confirm_password_label">Потвърди парола</string>
+    <string name="register_button">РЕГИСТРАЦИЯ</string>
+    <string name="already_have_account">Вече имате акаунт? Вход</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_title">Добре дошли в ShredShare</string>
+    <string name="home_subtitle">Намерете екипировка близо до вашия курорт.</string>
+    <string name="search_placeholder">Търси курорт (напр. Bansko)</string>
+    <string name="view_wardrobes">Виж гардеробите</string>
+    <string name="no_resort_selected">Няма избран курорт</string>
+    <string name="select_marker_hint">Изберете маркер на картата или потърсете за детайли.</string>
+
+    <!-- Create Wardrobe Screen -->
+    <string name="create_wardrobe_title">Създаване на обява за гардероб</string>
+    <string name="create_wardrobe_subtitle">Добавете вашия гардероб, за да могат потребителите да наемат екипировка.</string>
+    <string name="wardrobe_name_label">Име на гардероба</string>
+    <string name="address_label">Адрес</string>
+    <string name="phone_label">Телефонен номер</string>
+    <string name="description_label">Описание</string>
+    <string name="location_label">Местоположение</string>
+    <string name="pick_on_map">Избери на картата</string>
+    <string name="create_listing_button">Добави гардероб</string>
+
+    <!-- Validation Errors -->
+    <string name="error_wardrobe_name_required">Името на гардероба е задължително</string>
+    <string name="error_address_required">Адресът е задължителен</string>
+    <string name="error_phone_required">Телефонният номер е задължителен</string>
+    <string name="error_phone_invalid">Невалиден формат на телефона</string>
+    <string name="error_description_required">Описанието е задължително</string>
+    <string name="error_location_required">Моля, изберете местоположение на картата</string>
+    <string name="error_full_name_required">Пълното име е задължително</string>
+    <string name="error_email_required">Имейлът е задължителен</string>
+    <string name="error_email_invalid">Невалиден формат на имейла</string>
+    <string name="error_password_required">Паролата е задължителна</string>
+    <string name="error_password_too_short">Паролата трябва да е поне 8 символа</string>
+    <string name="error_password_complexity">Включете както главни, така и малки букви</string>
+    <string name="error_confirm_password_required">Моля, потвърдете паролата си</string>
+    <string name="error_passwords_dont_match">Паролите не съвпадат</string>
+</resources>
